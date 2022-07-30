@@ -6,11 +6,11 @@ myCalc UI is a second version
 1.Pick any number(can inculde dot)
 
 2.Choose operation
-   multiply
-   subtract
-   divide
-   modulus
-   addition
+   *multiply
+   *subtract
+   *divide
+   *modulus
+   *addition
 
 3.Another number to perform fhe operation
 (can have dot also)
